@@ -50,6 +50,7 @@ public class SurvivalGames extends JavaPlugin implements Listener {
 	public PluginManager pluginManager;
 	public Server server;
 	Logger log;
+	//test
 	public int time = 120;
 	public boolean canStart;
 	public int TimerID;
