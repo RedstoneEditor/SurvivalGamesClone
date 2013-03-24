@@ -1,0 +1,5 @@
+name: SurvivalGames
+author: RedstoneEditor
+description: Survival Games management plugin
+version: 0.1
+main: tk.RedstoneEditor.SurvivalGames.SurvivalGames
